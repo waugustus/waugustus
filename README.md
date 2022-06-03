@@ -1,7 +1,7 @@
 <h1><p align="center">About</p></h1>
 
 ### About me
-- Software security enthusiast, including vulnerability discovery and cause analysis
+- Software security enthusiast, including [vulnerability discovery](https://github.com/waugustus/poc) and [cause analysis](https://github.com/waugustus/crash_analysis)
 - Ph.D. student at the Institute of Information Engineering, Chinese Academy of Sciences
 - Graduated from Huazhong University of Science and Technology
 
