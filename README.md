@@ -7,13 +7,13 @@
 
 ### Vulnerabilities
 
-|CVE|Program|Summary|Analysis|
-|----|----|----|----|
-|[CVE-2018-20189](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20189)|gm|Assertion Failure in WriteOnePNGImage||
-|[CVE-2019-7581](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7581)|listswf|Memory Allocation Failure in parseSWF_ACTIONRECORD||
-|[CVE-2019-7582](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7582)|listswf|Memory Allocation Failure in readBytes||
-|[CVE-2019-7663](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7663)|tiffcp|Segment Fault in cpSeparateBufToContigBuf||
-|[CVE-2022-22844](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-22844)|tiffset|Global Buffer Overflow in \_TIFFmemcpy||
+| CVE | Package | Version | Program | Summary | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| [CVE-2018-20189](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20189) | graphicsmagick | 89e43 | gm | Assertion Failure in WriteOnePNGImage |  |
+| [CVE-2019-7581](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7581) | libming | 50098 | listswf | Memory Allocation Failure in parseSWF_ACTIONRECORD |  |
+| [CVE-2019-7582](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7582) | libming | 50098 | listswf | Memory Allocation Failure in readBytes|  |
+| [CVE-2019-7663](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-7663) | libtiff | 56a19 | tiffcp | Segment Fault in cpSeparateBufToContigBuf |  |
+| [CVE-2022-22844](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-22844) | libtiff | cd57b | tiffset | Global Buffer Overflow in \_TIFFmemcpy | [Link](https://github.com/waugustus/crash_analysis/blob/main/analysis/CVE-2022-22844.md) |
 
 [![4ugstus's GitHub stats](https://github-readme-stats.vercel.app/api?username=waugustus&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
