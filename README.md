@@ -22,7 +22,7 @@
 |[CVE-2022-1622](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1622)|libtiff|b51bb|tiffcp|SEGV in LZWDecode||
 |[CVE-2022-1623](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1623)|libtiff|b51bb|tiffcp|SEGV in LZWDecode||
 |[CVE-2022-2056](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2056)|libtiff|9752d|tiffcrop|FPE in computeOutputPixelOffsets||
-|[CVE-2022-2057](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2057)|libtiff|19db1tiffcrop|FPE in computeOutputPixelOffsets||
+|[CVE-2022-2057](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2057)|libtiff|19db1|tiffcrop|FPE in computeOutputPixelOffsets||
 |[CVE-2022-2058](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2058)|libtiff|19db1|tiffcrop|FPE in computeOutputPixelOffsets||
 |[CVE-2022-2953](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2953)|libtiff|b51bb|tiffcrop|Heap Buffer Overflow in extractImageSection||
 |[CVE-2022-3597](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3597)|libtiff|b51bb|tiffcrop|Heap Buffer Overflow in _TIFFmemcpy||
